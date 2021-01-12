@@ -7,13 +7,20 @@
 * [Dynamic Programming](software-engineering/dynamic-programming.md)
 * [Philosophy of tests](software-engineering/philosophy-of-tests.md)
 
-## Memories
+## Machine Learning
 
-* [Internship at insightFinder](memories/internship-at-insightfinder.md)
+* [CS188 Artificial Intelligence](machine-learning/cs188-artificial-intelligence.md)
 
-## Learning Notes
+## Stories
 
-* [Beyond the Zulu Principle](learning-notes/beyond-the-zulu-principle.md)
-* [CS188 Artificial Intelligence](learning-notes/cs188-artificial-intelligence.md)
-* [Predictably Irrational](learning-notes/predictably-irrational.md)
+* [Internship at insightFinder](stories/internship-at-insightfinder.md)
+
+## Investment
+
+* [Beyond the Zulu Principle](investment/beyond-the-zulu-principle.md)
+* [Predictably Irrational](investment/predictably-irrational.md)
+
+## Communication
+
+* [WHAC 3 minutes pitch rule](communication/whac-3-minutes-pitch-rule.md)
 
