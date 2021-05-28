@@ -1,26 +1,8 @@
 # Table of contents
 
-* [About Me](README.md)
+* [关于我](README.md)
 
-## Software Engineering
+## 投资 <a id="investment"></a>
 
-* [Dynamic Programming](software-engineering/dynamic-programming.md)
-* [Philosophy of tests](software-engineering/philosophy-of-tests.md)
-
-## Machine Learning
-
-* [CS188 Artificial Intelligence](machine-learning/cs188-artificial-intelligence.md)
-
-## Stories
-
-* [Internship at insightFinder](stories/internship-at-insightfinder.md)
-
-## Investment
-
-* [Beyond the Zulu Principle](investment/beyond-the-zulu-principle.md)
-* [Predictably Irrational](investment/predictably-irrational.md)
-
-## Communication
-
-* [WHAC 3 minutes pitch rule](communication/whac-3-minutes-pitch-rule.md)
+* [读书笔记：祖鲁法则 如何选择成长股](investment/beyond-the-zulu-principle.md)
 

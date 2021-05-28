@@ -1,6 +1,6 @@
-# Beyond the Zulu Principle
+# 读书笔记：祖鲁法则 如何选择成长股
 
-My notes of book [Beyond the Zulu Principle](https://www.bilibili.com/video/av15628609/?p=5)
+My notes of book [Beyond the Zulu Principle](https://baike.baidu.com/item/%E7%A5%96%E9%B2%81%E6%B3%95%E5%88%99%EF%BC%9A%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%E6%88%90%E9%95%BF%E8%82%A1)
 
 ### 概述
 
