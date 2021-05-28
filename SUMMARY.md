@@ -15,10 +15,9 @@
 
 * [Internship at insightFinder](stories/internship-at-insightfinder.md)
 
-## Investment
+## reading notes
 
-* [Beyond the Zulu Principle](investment/beyond-the-zulu-principle.md)
-* [Predictably Irrational](investment/predictably-irrational.md)
+* [Predictably Irrational](reading-notes/predictably-irrational.md)
 
 ## Communication
 
