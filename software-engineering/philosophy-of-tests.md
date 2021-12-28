@@ -4,11 +4,11 @@
 
 ### Run fast
 
-Quick signal allow developer to iterate quicker. Also save resource when running in CI. Unit tests should less than 1 minute, E2E tests should less than 5 minutes. Cache huge tests assets if needed.  
+Quick signal allow developer to iterate quicker. Also save resource when running in CI. Unit tests should less than 1 minute, E2E tests should less than 5 minutes. Cache huge tests assets if needed. &#x20;
 
 ### Reproduce locally
 
-Isolate environment related flakiness. If a failure is not reproducible locally it will cause confusion and others no longer trust its fidelity.  
+Isolate environment related flakiness. If a failure is not reproducible locally it will cause confusion and others no longer trust its fidelity. &#x20;
 
 ### Don't break often, not flaky
 
@@ -24,13 +24,13 @@ Use customized message in your assertion. Vague error message like "Key can not 
 
 ### Catch actual bugs
 
-Don't only aim at code coverage. You test should catch real bugs. Think about what might went wrong in real scenario.  
+Don't only aim at code coverage. You test should catch real bugs. Think about what might went wrong in real scenario. &#x20;
 
-### Survive refactoring 
+### Survive refactoring&#x20;
 
 Test against behavior not intermediate values. Ideally it should not block people from doing proper refactoring.
 
-## Best practices 
+## Best practices&#x20;
 
 ### Add test to catch it in the future after fixing bug
 
@@ -40,9 +40,9 @@ Every time you found a bug is not catch by automated tests, think about how to w
 
 Strategy are different in per different project. Good strategy take iterations to be found. Share your own effective strategy to you team proactively and let other learn.
 
-### Avoid too much isolation and mocking 
+### Avoid too much isolation and mocking&#x20;
 
-Excessive isolation or mocking may reduce your test quality, making them not catching actual bugs especially in integration level 
+Excessive isolation or mocking may reduce your test quality, making them not catching actual bugs especially in integration level&#x20;
 
 ### Careful with generated tests
 
@@ -50,13 +50,11 @@ Generated tests are useful to enforce behavior and increase coverage. On the oth
 
 ### Keep tack of you tests
 
-Maintain your tests, have a dashboard to track all your test's healthiness. Remove tests when it is no longer necessary. Tests should be updated as part of feature iteration . 
+Maintain your tests, have a dashboard to track all your test's healthiness. Remove tests when it is no longer necessary. Tests should be updated as part of feature iteration .&#x20;
 
 ## Learning resource
 
 #### Testing patterns at Facebook:
 
-{% embed url="https://www.youtube.com/watch?v=\_pnW-JjmyXE" %}
-
-
+{% embed url="https://www.youtube.com/watch?v=_pnW-JjmyXE" %}
 
