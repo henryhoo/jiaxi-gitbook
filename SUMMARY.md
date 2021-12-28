@@ -2,6 +2,10 @@
 
 * [About Me](README.md)
 
+## Tips
+
+* [Mobile login for outlook organization account](tips/mobile-login-for-outlook-organization-account.md)
+
 ## Software Engineering
 
 * [Dynamic Programming](software-engineering/dynamic-programming.md)
@@ -22,7 +26,3 @@
 ## Communication
 
 * [WHAC 3 minutes pitch rule](communication/whac-3-minutes-pitch-rule.md)
-
-***
-
-* [Mobile login for outlook organization account](mobile-login-for-outlook-organization-account.md)
